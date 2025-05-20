@@ -6,7 +6,7 @@ La app muestra:
 
 -Una lista de productos en tarjetas.
 
--Estadísticas en tiempo real:
+-Estadísticas:
 
 -Producto más caro y más barato.
 
